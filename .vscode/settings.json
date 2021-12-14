@@ -1,0 +1,11 @@
+{
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "Default Dark+",
+  "[markdown]": {
+    // "editor.lineHeight": 16,
+    // "editor.fontSize": 13,
+    "editor.fontFamily": "YuMincho, 游明朝, IPAexMincho"
+  },
+  "markdown.styles": [".vscode/markdown.css"],
+  "markdown-pdf.styles": [".vscode/markdown.css"]
+}

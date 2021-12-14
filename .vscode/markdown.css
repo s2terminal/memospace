@@ -1,0 +1,9 @@
+body {
+  font-family: "YuMincho", "游明朝", "serif";
+  background-color: #fff;
+  color: #000;
+}
+
+pre {
+  background-color: #000 !important;
+}
