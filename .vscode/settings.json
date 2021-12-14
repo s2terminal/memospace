@@ -4,7 +4,7 @@
   "[markdown]": {
     // "editor.lineHeight": 16,
     // "editor.fontSize": 13,
-    "editor.fontFamily": "YuMincho, 游明朝, IPAexMincho"
+    "editor.fontFamily": "YuMincho, 游明朝, Noto Serif CJK JP, IPAexMincho, serif"
   },
   "markdown.styles": [".vscode/markdown.css"],
   "markdown-pdf.styles": [".vscode/markdown.css"]
