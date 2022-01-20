@@ -7,5 +7,6 @@
     "editor.fontFamily": "YuMincho, 游明朝, Noto Serif CJK JP, IPAexMincho, serif"
   },
   "markdown.styles": [".vscode/markdown.css"],
+  "files.autoSave": "off",
   "markdown-pdf.styles": [".vscode/markdown.css"]
 }
